@@ -1,0 +1,2 @@
+# AbetterToDo
+Simplicity is genius 
