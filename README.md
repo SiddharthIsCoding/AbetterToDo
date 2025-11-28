@@ -1,2 +1,2 @@
 # AbetterToDo
-Simplicity is genius 
+Simplicity is genius
